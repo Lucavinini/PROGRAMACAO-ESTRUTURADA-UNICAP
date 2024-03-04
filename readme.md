@@ -1,1 +1,1 @@
-# Nesse repósitorio se encontra a resolução de algumas desafios de seleção da primeira ficha de exercícios do professor Augusto para a disciplina de Programação Estruturada.
+# Nesse repósitorio se encontra a resolução de todas as fichas de atividades na disciplina de PROGRAMAÇÃO ESTRUTURADA EM C.
