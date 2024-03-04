@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "Q02.C": "cpp",
+        "Q03.C": "cpp",
+        "Q06.C": "cpp",
+        "Q07.C": "cpp",
+        "Q08.C": "cpp",
+        "Q09.C": "cpp",
+        "Q11.C": "cpp",
+        "Q12.C": "cpp",
+        "Q17.C": "cpp",
+        "Q20.C": "cpp",
+        "Q26.C": "cpp",
+        "Q27.C": "cpp",
+        "Q28.C": "cpp",
+        "Q29.C": "cpp",
+        "Q30.C": "cpp",
+        "Q31.C": "cpp",
+        "Q32.C": "cpp",
+        "Q33.C": "cpp",
+        "Q34.C": "cpp",
+        "Q35.C": "cpp",
+        "Q36.C": "cpp",
+        "Q37.C": "cpp",
+        "Q38.C": "cpp",
+        "Q39.C": "cpp",
+        "Q40.C": "cpp",
+        "Q41.C": "cpp"
+    }
+}
