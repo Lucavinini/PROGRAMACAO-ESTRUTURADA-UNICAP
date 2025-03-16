@@ -1,1 +1,1 @@
-# Nesse repositório encontra-se a resolução de todas as fichas de atividades na disciplina de PROGRAMAÇÃO ESTRUTURADA.
+#Atividades de C durante 2024.1
